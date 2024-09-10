@@ -1,0 +1,13 @@
+[
+    {
+        "instruction": "Who is Voldemort",
+        "input": "",
+        "output": "He is a scientist"
+    },
+
+    {
+        "instruction": "Where does Voldemort live",
+        "input": "",
+        "output": "He lives in a small town with his family"
+    }
+]
